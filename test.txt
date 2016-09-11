@@ -1,2 +1,2 @@
 hello world
-commit 1 from git-play
+commit 2 from git-play
